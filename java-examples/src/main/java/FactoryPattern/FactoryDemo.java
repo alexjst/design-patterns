@@ -1,8 +1,8 @@
-package Factory;
+package FactoryPattern;
 
-import static Factory.ShapeFactory.ShapeType.RECTANGLE;
-import static Factory.ShapeFactory.ShapeType.SQUARE;
-import static Factory.ShapeFactory.ShapeType.CIRCLE;
+import static FactoryPattern.ShapeFactory.ShapeType.RECTANGLE;
+import static FactoryPattern.ShapeFactory.ShapeType.SQUARE;
+import static FactoryPattern.ShapeFactory.ShapeType.CIRCLE;
 
 /**
  * Created by alexyang on 6/2/17.

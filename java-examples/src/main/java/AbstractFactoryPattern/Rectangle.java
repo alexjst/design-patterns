@@ -1,4 +1,4 @@
-package Factory;
+package AbstractFactoryPattern;
 
 /**
  * Created by alexyang on 6/2/17.
