@@ -247,6 +247,13 @@ paket-files/
 # FAKE - F# Make
 .fake/
 
+# Gradle
+.gradletasknamecache
+.gradle/
+build/
+bin/
+gen/
+
 # JetBrains Rider
 .idea/
 *.sln.iml
